@@ -20,4 +20,4 @@ Estudiante de 5to año de Ingeniería en Informática en Duoc UC y apasionado po
 
 ## 📬 Conéctate conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/matias-diaz-morales)
-- ✉️ matydiazmorales@gmail.com
+- ✉️ matydiaz.ing@gmail.com
