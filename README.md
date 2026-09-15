@@ -2,7 +2,7 @@
 
 **Estudiante de 5to año de Ingeniería en Informática en Duoc UC | Apasionado por el Desarrollo de Software y la Ingeniería de Datos**
 
-Actualmente me encuentro en búsqueda activa de mi **Práctica Profesional** 🚀 para integrarme a equipos de tecnología y aportar valor en desarrollo backend, gestión de datos o análisis de sistemas.
+Actualmente me encuentro realizando mi **Práctica Profesional** 🚀, aplicando mis conocimientos técnicos en entornos reales, aportando valor al equipo y en constante aprendizaje continuo.
 
 ---
 
