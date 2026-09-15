@@ -40,9 +40,8 @@ Actualmente me encuentro en búsqueda activa de mi **Práctica Profesional** �
 
 Si buscas a alguien motivado y listo para aportar a tu equipo, ¡no dudes en contactarme!
 
-<a href="https://www.linkedin.com/in/matias-diaz-morales" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:matydiaz.ing@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-diaz-morales)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matydiaz.ing@gmail.com)
+
+- 💼 **LinkedIn:** [linkedin.com/in/matias-diaz-morales](https://www.linkedin.com/in/matias-diaz-morales)
+- ✉️ **Correo:** [matydiaz.ing@gmail.com](mailto:matydiaz.ing@gmail.com)
